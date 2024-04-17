@@ -28,6 +28,8 @@
   
 # Wireframes - Handwritten
 
+![IMG_0081](https://github.com/JCkang23/dFresh-23/assets/155149687/a4f1f298-27ea-462d-adfc-0e73bdd86ede)
+![IMG_0082](https://github.com/JCkang23/dFresh-23/assets/155149687/f8b51df7-2c83-491d-9d66-229a0b60010c)
 
 
 # Progress Video Walkthrough
