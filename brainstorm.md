@@ -7,7 +7,7 @@
 6. Trivia -> challenge to redo the app from an entirely different perspective
 
 ## Top 2 New App Ideas
-1. dFresh-23: 
+1. dFresh-23
 2. Chatup
 
 ## New App Ideas - Evaluate and Categorize
